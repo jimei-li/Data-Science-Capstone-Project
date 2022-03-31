@@ -92,3 +92,19 @@ def get_scatter_chart(entered_site, slider_value):
 # Run the app
 if __name__ == '__main__':
     app.run_server()
+    
+# Install required Python packages
+# Open a new terminal, by clicking on the menu bar and selecting Terminal->New Terminal.
+# Install python packages required to run the application.
+# Copy and paste the below command to the terminal
+# pip3 install pandas dash
+# Run the following wget command line in the terminal to download dataset as spacex_launch_dash.csv
+# wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv"
+# Download a skeleton Dash app to be completed in this lab:
+# wget "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_3/spacex_dash_app.py"
+# Test the skeleton app by running the following command in the terminal:
+# python3 spacex_dash_app.py
+# Observe the port number (8050) shown in the terminal.
+# Click on the Launch Application option from the menu bar.
+
+
