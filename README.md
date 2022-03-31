@@ -1,3 +1,2 @@
-# Data-Science-Capstone-Project
-Data Science Capstone Project_IBM
-This prolect includes all the final assignments of DataScience .
+# Applied Data-Science-Capstone-Project
+This repository includes all the final assignments of course 10 : Applied Data Science Capstone.
